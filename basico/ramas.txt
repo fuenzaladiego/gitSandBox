@@ -13,3 +13,4 @@ git checkout cambio rama
 para fucionar cosas de ramas debemos
 1) Ir a la rama main
 2) git merge <nombre rama a fusionar>
+Listo
