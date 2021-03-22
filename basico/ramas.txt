@@ -1,0 +1,8 @@
+Puedes trabajar en distintas ramas al mismo tiempo
+Puedes fusionar las ramas en una si asi lo deseas
+
+para crear ramas
+git branch <nombre rama>
+
+para ver las ramas del projecto usamos simplemente
+git branch

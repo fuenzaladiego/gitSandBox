@@ -5,3 +5,9 @@ Esto cambiara el archivo en GitHub pero no en tu pc , para obtener los cambios a
 
 Para crear tags
 git tag nombreEtiqueta -m "Descripcion del tag"
+Luego para subir las tags
+git push --tags
+
+
+para clonar un proyecto usamos 
+git clone url proyecto
