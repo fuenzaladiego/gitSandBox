@@ -1,0 +1,7 @@
+Imagina que editas tu codigo directo de GitHub
+Una vez editado usas commit changes
+
+Esto cambiara el archivo en GitHub pero no en tu pc , para obtener los cambios actualizados debemos usar pull: 
+
+Para crear tags
+git tag nombreEtiqueta -m "Descripcion del tag"
