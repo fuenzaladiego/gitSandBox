@@ -1,0 +1,4 @@
+Para ver las versiones commiteadas
+Git log --oneline
+Para resetear
+Git reset --hard <codigo commit>
