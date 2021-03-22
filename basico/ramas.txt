@@ -6,3 +6,6 @@ git branch <nombre rama>
 
 para ver las ramas del projecto usamos simplemente
 git branch
+
+para cambiar de ramas 
+git checkout cambio rama
