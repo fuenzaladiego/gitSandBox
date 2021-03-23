@@ -1,0 +1,12 @@
+Al editar en github tendremos dos opciones al guardar un archivo.
+Se puede guardar en la rama de trabajo o guardar en un rama creada en el insstante
+
+EN github nos dira si una rama tiene mas commits hechos que la rama master
+
+Un botno de pull request y uno de compare
+Con compare podre ver las cosas adicionales que tiene la rama en la que estoy con respecto a la rama main
+
+Para hacer merge a la rama master desde una distinta tenemos pull request 
+
+Al crear un pull request nos dara para poner una descripcion del pull, nos dira si la rama tiene conflictos con la rama main , en caso de no tener conflitctos podemos confirmar el merge, al hacer el merge podemos eliminar la rama mergeada
+
